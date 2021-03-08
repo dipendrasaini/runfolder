@@ -1,0 +1,4 @@
+<device DEVNO="0xfd00" TIME="1615200052.784918" UUID="9f9fb327-9d94-43ad-8d1a-1e4804496763" BLOCK_SIZE="512" TYPE="xfs">/dev/mapper/cl-root</device>
+<device DEVNO="0x0802" TIME="1615200052.829766" UUID="vhUBVR-V1C1-F4lR-ksLU-LjLQ-fjJn-mCN8w1" TYPE="LVM2_member" PARTUUID="f8519ee7-02">/dev/sda2</device>
+<device DEVNO="0x0801" TIME="1615200052.840745" UUID="42431555-cf82-4517-a1dc-9c884511c1ca" BLOCK_SIZE="512" TYPE="xfs" PARTUUID="f8519ee7-01">/dev/sda1</device>
+<device DEVNO="0xfd01" TIME="1615200052.863014" UUID="e1a38ea2-b3cd-447d-9792-9f2680d2b8b2" TYPE="swap">/dev/mapper/cl-swap</device>

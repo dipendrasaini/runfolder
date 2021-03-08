@@ -1,0 +1,7 @@
+# Created by vgs pid 1581 Mon Mar  8 15:57:26 2021
+hints_version: 1.1
+global_filter:a|.*|
+filter:a|.*|
+scan_lvs:0
+scan:/dev/sda2 pvid:vhUBVRV1C1F4lRksLULjLQfjJnmCN8w1 devn:8:2 vg:cl
+devs_hash: 2853896678 3

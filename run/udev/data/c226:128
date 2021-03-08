@@ -1,0 +1,4 @@
+S:dri/by-path/pci-0000:00:0f.0-render
+I:23814183
+E:ID_PATH=pci-0000:00:0f.0
+E:ID_PATH_TAG=pci-0000_00_0f_0
